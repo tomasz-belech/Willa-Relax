@@ -1,2 +1,5 @@
 # Willa-Relax
-Willa Relax Web
+
+Key Technologies
+-HTML/CSS
+Javascript
