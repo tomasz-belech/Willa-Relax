@@ -109,6 +109,7 @@ img {
   color: #fff;
   cursor: pointer;
   transition: var(--transition);
+  text-decoration: none;
 }
 .head-btn:hover {
   background-color: white;
