@@ -184,7 +184,7 @@ img {
 }
 @media (max-width: 400px) {
   .sidenav {
-    width: 100vw;
+    width: 50%;
   }
 }
 
