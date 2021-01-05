@@ -415,14 +415,16 @@ img {
   }
 }
 @media (min-width: 1170px) {
-  .footer {
-    text-align: left;
-  }
   .footer-container {
-    grid-template-columns: repeat(4, 1fr);
+    display: flex;
+    justify-content: space-between;
   }
-  .footer-container div:nth-child(1) p {
+  /* .footer-container div:nth-child(1) p {
     padding-right: 20px;
+    max-width: 70%;
+  } */
+  .footer__container--left {
+    max-width: 50%;
   }
   .contact-item {
     display: grid;
