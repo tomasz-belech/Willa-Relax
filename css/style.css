@@ -361,7 +361,7 @@ img {
 .maps {
   height: 500px;
   width: 100%;
-  margin-bottom: 50px;
+  border: 5px solid black;
 }
 
 /* footer */
