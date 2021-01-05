@@ -349,10 +349,6 @@ img {
     display: flex;
     justify-content: center;
   }
-  .photo {
-    flex: 0 0 calc(50% - 20px);
-    margin: 10px;
-  }
 }
 @media (min-width: 1370px) {
   .photos-container {
@@ -365,6 +361,7 @@ img {
   .photo {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     padding-bottom: 0;
     margin: 5px 0;
     max-width: 100%;
