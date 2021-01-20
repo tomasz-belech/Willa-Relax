@@ -100,8 +100,8 @@ img {
 .head-top img {
   cursor: pointer;
   transition: var(--transition);
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
 }
 .head-top span:hover {
   color: var(--yellow);
@@ -159,6 +159,14 @@ img {
     width: 20px;
     height: 20px;
   }
+}
+.site-language {
+  display: flex;
+  justify-content: space-evenly;
+  width: 120px;
+}
+.site-language p {
+  letter-spacing: 2px;
 }
 
 /* side nav */
