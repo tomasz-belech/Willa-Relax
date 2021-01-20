@@ -244,13 +244,13 @@ img {
   margin: 30px 0;
 }
 .service-icon {
-  flex: 30%;
   align-self: flex-start;
   font-size: 48px;
   color: #252525;
 }
 .service-content {
   padding-left: 20px;
+  font-size: 25px;
 }
 .service-content h2 {
   opacity: 0.7;
