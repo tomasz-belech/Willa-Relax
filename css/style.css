@@ -153,12 +153,6 @@ img {
     font-size: 17px;
     margin: 20px auto;
   }
-  .head-top img {
-  cursor: pointer;
-  letter-spacing: 2px;
-  transition: var(--transition);
-  width: 20px;
-  height: 20px;
 }
 
 /* side nav */
